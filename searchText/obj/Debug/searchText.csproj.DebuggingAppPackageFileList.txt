@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\searchTextManifest.xml
+F:\Sohel_Work\Demo Office\searchText\searchText\bin\Debug\searchText.debugapp
